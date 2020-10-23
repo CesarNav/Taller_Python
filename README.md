@@ -1,5 +1,6 @@
 # Taller Python
-Taller de programación en python grupo de investigacion mente cognición acción
+Taller de programación en python grupo de investigacion Mente, Cognición, Acción
+[Grabación del Taller](https://www.facebook.com/mentecognicionyaccion/videos/418216909576721)
 
 ## Descargar Python
 - Antes de inicar nuestro taller es necesario que contar con Python instalado en nuestra computadora, para ello nos vamos a dirigir a la siguiente dirección.
@@ -9,8 +10,9 @@ Taller de programación en python grupo de investigacion mente cognición acció
 - Elegimos nuestro sistema operativo y ejecutamos el instalador.
 
 ## Introducción a la programación con Python
-### ¿Cómo funciona un programa de computadora?
 
+
+### ¿Cómo funciona un programa de computadora?
 
 - Lenguaje natural vs. Lenguajes de programación
 
@@ -86,4 +88,4 @@ for
 - Python tiene un modulo que nos genera numero aleatorios
 
 ## Cast 
-- Eñl casteo nos permite convertir el tipo de un dato en uno deseable
+- El casteo nos permite convertir el tipo de un dato en uno deseable
